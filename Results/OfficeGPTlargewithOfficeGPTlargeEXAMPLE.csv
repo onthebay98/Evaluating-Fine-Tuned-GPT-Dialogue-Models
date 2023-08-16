@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",What is love?,18.17805767059326,0.8744735717773438
+What is love?,Baby don't hurt me.,15.831367492675781,0.823581337928772
+Baby don't hurt me.,"Baby, don't cry.",25.586183547973633,0.9431103467941284
+"Baby, don't cry.",I'm not crying.,7.950130462646484,0.8600754737854004
+I'm not crying.,Stop.,19.662835597991943,0.723551869392395
+Stop.,Just...,5.8994855880737305,0.7196519374847412
+Just...,Just cry. Just cry. It's okay.,12.251228332519531,0.8509429693222046

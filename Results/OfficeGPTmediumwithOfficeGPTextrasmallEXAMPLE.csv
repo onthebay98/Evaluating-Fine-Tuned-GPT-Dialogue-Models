@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I don't know.,22.081557273864746,0.7863996624946594
+I don't know.,What is life?,13.60550308227539,0.8395494222640991
+What is life?,What are you doing?,11.93847370147705,0.9016711115837097
+What are you doing?,What's up?,9.18267822265625,0.8629945516586304
+What's up?,"Hey, you know what?",14.88774824142456,0.865295946598053
+"Hey, you know what?","Hey, you know?",11.486550331115723,0.9926652908325195

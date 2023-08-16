@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",What is life?,19.621522903442383,0.918193519115448
+What is life?,"What's the meaning, but what is the matter?",-1.7034378051757812,0.915917158126831
+"What's the meaning, but what is the matter?",what's the matter?,44.313414573669434,0.9675908088684082
+what's the matter?,That's the way to be the messenger.,16.243593215942383,0.8888429403305054
+That's the way to be the messenger.,The message is what matters.,22.619579315185547,0.885189414024353
+The message is what matters.,"Why, then 'tis not so: but 'tis so, that 'tis a matter of principal.",27.73651123046875,0.911740779876709
+"Why, then 'tis not so: but 'tis so, that 'tis a matter of principal.","Why,'tis not a matter.",64.04752349853516,0.9758774042129517

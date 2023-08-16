@@ -1,0 +1,11 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",It's a quote from a book.,22.92870330810547,0.8291958570480347
+It's a quote from a book.,What is that from?,24.93197536468506,0.8592959642410278
+What is that from?,"This is a quote, not a quote.",19.746763229370117,0.8577650785446167
+"This is a quote, not a quote.","That's a good quote, but it doesn't explain what the universe is.",23.35845947265625,0.9115933775901794
+"That's a good quote, but it doesn't explain what the universe is.","I'm not sure what you mean by this, but I like it.",40.21362113952637,0.9200493693351746
+"I'm not sure what you mean by this, but I like it.","So, it's like a giant wall of text?",31.13232421875,0.8678061962127686
+"So, it's like a giant wall of text?",You're welcome.,37.377100467681885,0.7731775641441345
+You're welcome.,Thank you. I'm glad you like it,9.625423431396484,0.9273697733879089
+Thank you. I'm glad you like it,That was a good read.,22.198123931884766,0.7697435021400452
+That was a good read.,"You should check out the book, The Big Bang Theory.",11.713443756103516,0.8578519821166992

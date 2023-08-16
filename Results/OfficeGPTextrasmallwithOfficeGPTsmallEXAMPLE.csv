@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",The meaning of your life is to live in peace.,14.805797576904297,0.927232563495636
+The meaning of your life is to live in peace.,What is that?,37.27704620361328,0.824905514717102
+What is that?,I'm a Christian and I love it.,14.597192764282227,0.8451066017150879
+I'm a Christian and I love it.,I know.,25.446284294128418,0.9217879772186279
+I know.,It's a very popular religion.,9.718648910522461,0.7412891387939453
+It's a very popular religion.,"Oh, okay.",31.387160301208496,0.5865120887756348
+"Oh, okay.",I was just joking.,4.248385429382324,0.7274227738380432

@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?","All things that I know are true; and, as I guess, are true too.",25.166107177734375,0.9026179313659668
+"All things that I know are true; and, as I guess, are true too.","O, the gods! O heavens! O wicked woman! O mother! O woman! I am the son of a woman!",49.894325256347656,0.6923124194145203
+"O, the gods! O heavens! O wicked woman! O mother! O woman! I am the son of a woman!","How now, my lord! What news? what news?",84.70814514160156,0.7872799038887024
+"How now, my lord! What news? what news?","I pray thee, sir,--",33.607994079589844,0.7877637147903442
+"I pray thee, sir,--",What news? how fares the queen?,24.414596557617188,0.7041884660720825
+What news? how fares the queen?,She's dead; and therefore is no heir to the crown.,46.55445098876953,0.796785831451416

@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I don't think I have any of those things.,22.57205581665039,0.8449300527572632
+I don't think I have any of those things.,You're not going to find it in the Bible.,24.556787490844727,0.917214035987854
+You're not going to find it in the Bible.,What do you mean?,23.71830940246582,0.876060426235199
+What do you mean?,"I mean, I don't know, I just don't have any instincts about humor.",7.999794006347656,0.9377516508102417
+"I mean, I don't know, I just don't have any instincts about humor.",I'm not sure I understand what you mean.,51.30697059631348,0.9638547897338867
+I'm not sure I understand what you mean.,What are you not sure about?,16.60268783569336,0.9426680207252502
+What are you not sure about?,What is your point?,20.770708084106445,0.9108942151069641

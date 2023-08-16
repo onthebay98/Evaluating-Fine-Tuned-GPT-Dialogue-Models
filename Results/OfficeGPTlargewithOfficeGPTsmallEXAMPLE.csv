@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I don't know.,22.081557273864746,0.7863996624946594
+I don't know.,What is life?,13.60550308227539,0.8395494222640991
+What is life?,What's the meaning?,5.78120231628418,0.8920648097991943
+What's the meaning?,It's a mystery.,16.687235832214355,0.8392148613929749
+It's a mystery.,It is a mystery?,9.376150131225586,0.9253444671630859
+It is a mystery?,Yeah.,24.703198194503784,0.5763444900512695

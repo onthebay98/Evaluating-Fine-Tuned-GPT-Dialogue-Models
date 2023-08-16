@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",What is life?,19.621532440185547,0.918193519115448
+What is life?,What are you doing?,11.93847370147705,0.9016711115837097
+What are you doing?,"It's not about what I do, it's about what the other person does.",10.563312530517578,0.8858989477157593
+"It's not about what I do, it's about what the other person does.",What do you do?,30.824814796447754,0.8639573454856873
+What do you do?,I do what I want.,9.153487205505371,0.949557900428772
+I do what I want.,"No, you don't.",16.856494903564453,0.9340864419937134
+"No, you don't.",I want to be a robot.,12.012537002563477,0.8810457587242126

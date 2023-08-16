@@ -1,0 +1,6 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I'm not a Christian.,24.02830982208252,0.8137608766555786
+I'm not a Christian.,What is your religion?,16.020268440246582,0.8170685172080994
+What is your religion?,"No, it's not.",18.58516025543213,0.7872750759124756
+"No, it's not.",Religion is not a thing I  can readily explain.,16.48227310180664,0.8681237697601318
+Religion is not a thing I  can readily explain.,Religious people are not people.,50.03971290588379,0.8185536861419678

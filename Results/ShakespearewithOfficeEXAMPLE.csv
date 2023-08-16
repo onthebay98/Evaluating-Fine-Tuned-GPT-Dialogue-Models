@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?","It is a strange world, my lord.",24.205867767333984,0.9047290682792664
+"It is a strange world, my lord.",What is love?,29.259496688842773,0.8459744453430176
+What is love?,"A strange thing, my liege.",9.117582321166992,0.7969864010810852
+"A strange thing, my liege.",It's not a lie.,30.36519145965576,0.8128113746643066
+It's not a lie.,"No, my good lord; it is a trick.",17.41204833984375,0.8974793553352356
+"No, my good lord; it is a trick.","Oh, I know.",42.04573631286621,0.8151370286941528

@@ -1,0 +1,6 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I am a Jedi Master.  I have the power to destroy the Emperor.  But I cannot destroy the Force.  Why must you destroy me?,21.822410583496094,0.8784803152084351
+I am a Jedi Master.  I have the power to destroy the Emperor.  But I cannot destroy the Force.  Why must you destroy me?,You have chosen to serve Vader  Darth Vader.  You are now my only friend.,57.97911834716797,0.9088807702064514
+You have chosen to serve Vader  Darth Vader.  You are now my only friend.,"But I am not a Jedi, nor am I a mindless servant.  My father was seduced by the dark side of the Force and became a Jedi by it, and I have since taken it upon myself to train him as my master.  Now I am the master.",59.22013854980469,0.8936447501182556
+"But I am not a Jedi, nor am I a mindless servant.  My father was seduced by the dark side of the Force and became a Jedi by it, and I have since taken it upon myself to train him as my master.  Now I am the master.","Master Luke Skywalker, what good will it do you if you die?",152.4876251220703,0.8659873604774475
+"Master Luke Skywalker, what good will it do you if you die?","It will be the end of me, my son.  If you will not fight, then I will.",29.231002807617188,0.9123361110687256

@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I don't know.,22.081557273864746,0.7863996624946594
+I don't know.,What's the meaning?,8.691617965698242,0.8038175702095032
+What's the meaning?,It's a mystery.,16.687235832214355,0.8392148613929749
+It's a mystery.,I know. I know. But I don't think I know what the meaning is.,13.380786895751953,0.7575510740280151
+I know. I know. But I don't think I know what the meaning is.,"Okay, you know what? I don'I think I want to see you go home.",47.0318603515625,0.969482958316803
+"Okay, you know what? I don'I think I want to see you go home.","No, I don 'I don' want to go home, I'm not going to go.",41.11745071411133,0.9705910086631775

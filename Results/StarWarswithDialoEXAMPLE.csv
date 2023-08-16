@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",The Force is strong with this one.,28.35373306274414,0.8770169615745544
+The Force is strong with this one.,The force is strong in this one.,9.806350708007812,0.9858493208885193
+The force is strong in this one.,The way you interpret it is different from mine.,27.477413177490234,0.8722251653671265
+The way you interpret it is different from mine.,I'm not saying the way I interpret it.,19.199003219604492,0.8979400992393494
+I'm not saying the way I interpret it.,It's not what you think.,32.56863021850586,0.947182834148407
+It's not what you think.,It is what you believe.,6.210689544677734,0.9654549360275269

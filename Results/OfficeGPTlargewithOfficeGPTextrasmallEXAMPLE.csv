@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",The universe is boring.,20.13484764099121,0.8807243704795837
+The universe is boring.,Why does everything in this universe feel so boring?,13.48504638671875,0.8609409928321838
+Why does everything in this universe feel so boring?,Because we live in a world of routines and rhythms.,26.771392822265625,0.8100189566612244
+Because we live in a world of routines and rhythms.,I don't understand why this is so hard for people to understand.,38.04140663146973,0.839022159576416
+I don't understand why this is so hard for people to understand.,"Well, it's a world with lots of rules.",29.796762466430664,0.8428823351860046
+"Well, it's a world with lots of rules.",What is this world?,29.518495559692383,0.8783997297286987

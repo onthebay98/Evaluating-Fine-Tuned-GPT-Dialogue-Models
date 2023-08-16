@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?","All things are made of shapes, shapes, and all things are things.",21.133644104003906,0.8700429797172546
+"All things are made of shapes, shapes, and all things are things.",What is it?,57.038331508636475,0.7922785878181458
+What is it?,"A strange world, to say the least.",7.794048309326172,0.8410294651985168
+"A strange world, to say the least.",Not as strange as yours.,22.29069709777832,0.8449126482009888
+Not as strange as yours.,"I am the stranger in this world, my lord, and I am the one.",22.77214813232422,0.8397918343544006
+"I am the stranger in this world, my lord, and I am the one.","Your Highness, the Force is strong with this one.  You are my only friend.  I am your master now.  Join me and we can rule the galaxy as father and son.",56.39496612548828,0.9436783790588379

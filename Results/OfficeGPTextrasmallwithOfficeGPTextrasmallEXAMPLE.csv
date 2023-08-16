@@ -1,0 +1,11 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?","It's not a question of what we believe, it's a question about what we think.",20.721393585205078,0.9100633859634399
+"It's not a question of what we believe, it's a question about what we think.",What is it that makes you think that?,38.011478424072266,0.9486417174339294
+What is it that makes you think that?,I think that's the point.,20.678515434265137,0.9173551797866821
+I think that's the point.,I don't think that was the point of the question.,12.623428344726562,0.9712883830070496
+I don't think that was the point of the question.,The point is that we believe in everything.,23.539749145507812,0.9597852230072021
+The point is that we believe in everything.,That's not what I said.,37.085121154785156,0.9160901308059692
+That's not what I said.,Because we believe that God exists.,15.933490753173828,0.8812240362167358
+Because we believe that God exists.,Why would we believe the bible?,18.158321380615234,0.9186658263206482
+Why would we believe the bible?,Because God exists,26.848267555236816,0.7642068266868591
+Because God exists,Why do you believe in the bible if you don't believe in God?,23.11167335510254,0.7839215397834778

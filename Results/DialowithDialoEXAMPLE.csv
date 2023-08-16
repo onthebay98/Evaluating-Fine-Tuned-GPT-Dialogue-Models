@@ -1,0 +1,11 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",What is life?,19.621522903442383,0.918193519115448
+What is life?,What's the meaning to life??,1.7635135650634766,0.9324640035629272
+What's the meaning to life??,The meaning of Life.,25.17437744140625,0.8903435468673706
+The meaning of Life.,What do you mean?,24.1314058303833,0.6834968328475952
+What do you mean?,I don't know what that is,10.064531326293945,0.9487842917442322
+I don't know what that is,It's a very common word.,22.523571014404297,0.8052945733070374
+It's a very common word.,"I think it's a common word, but I don't think it means what you think it is.",12.82242202758789,0.905792236328125
+"I think it's a common word, but I don't think it means what you think it is.",Is it a common phrase?,41.92832565307617,0.8864706158638
+Is it a common phrase?,It is a common saying.,15.853506088256836,0.9365823864936829
+It is a common saying.,That's a good word to say,24.264863967895508,0.8950204849243164

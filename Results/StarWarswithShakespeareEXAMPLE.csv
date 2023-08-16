@@ -1,0 +1,6 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",You will know when you are ready.,25.375656127929688,0.8354125618934631
+You will know when you are ready.,"And what is the matter, that you should not know?",16.57888412475586,0.9429221153259277
+"And what is the matter, that you should not know?","Your thoughts betray you, father.",33.5281982421875,0.815331220626831
+"Your thoughts betray you, father.","I am your father, and you are mine.",29.537986755371094,0.8856547474861145
+"I am your father, and you are mine.",You are no longer my father. I have grown strong.,15.964527130126953,0.9263975620269775

@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",It's a mystery.,21.02181339263916,0.8367664217948914
+It's a mystery.,"Okay, I'm sorry, I don't understand.",20.56725311279297,0.659770667552948
+"Okay, I'm sorry, I don't understand.","It is a mystery, and I'm not going to explain it.",16.288339614868164,0.8903657793998718
+"It is a mystery, and I'm not going to explain it.","Well, you're not going do that.",38.355939865112305,0.9467751979827881
+"Well, you're not going do that.","I'm not gonna do that, because I'm really sorry.",18.567134857177734,0.9183431267738342
+"I'm not gonna do that, because I'm really sorry.","You're not gonna tell me that you're sorry, because you're really not going tell me.",22.733463287353516,0.9656330347061157

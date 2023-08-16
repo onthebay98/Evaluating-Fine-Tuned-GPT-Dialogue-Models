@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",It's a complicated question. I have no idea.,19.78766441345215,0.8886871337890625
+It's a complicated question. I have no idea.,What are the ingredients of a well-oiled cheese shaw?,34.06593704223633,0.8040543794631958
+What are the ingredients of a well-oiled cheese shaw?,I don't know.,54.967291831970215,0.7242326736450195
+I don't know.,"Well, then, what is the purpose of asking?",14.590181350708008,0.81913161277771
+"Well, then, what is the purpose of asking?",To get the answer.,23.695621490478516,0.8821492195129395
+To get the answer.,That's what the question was.,18.668731689453125,0.8657474517822266

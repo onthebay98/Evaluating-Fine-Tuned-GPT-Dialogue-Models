@@ -1,0 +1,6 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",What are you asking?,21.72191619873047,0.8268665075302124
+What are you asking?,"How is it with you, my lord?",16.877641677856445,0.8968045711517334
+"How is it with you, my lord?",I am asking you a question.,24.2690486907959,0.8975663185119629
+I am asking you a question.,What is't with you?,19.501399993896484,0.8903327584266663
+What is't with you?,"You are asking me a question, and I am answering it.",27.330974578857422,0.9110794067382812

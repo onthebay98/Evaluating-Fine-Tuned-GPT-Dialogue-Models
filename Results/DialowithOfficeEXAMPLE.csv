@@ -1,0 +1,8 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I'm not even sure what that means.,22.773508071899414,0.8609018325805664
+I'm not even sure what that means.,You know what?  I don't know what that is either.,16.424480438232422,0.9739995002746582
+You know what?  I don't know what that is either.,I don't even know what a potato is.,35.858428955078125,0.9713409543037415
+I don't even know what a potato is.,"Hey, hey, hey.  I just want to say that I am very impressed with the level of commitment and commitment you put into this.  You are a very good person.",38.423194885253906,0.9440035223960876
+"Hey, hey, hey.  I just want to say that I am very impressed with the level of commitment and commitment you put into this.  You are a very good person.","Yeah, I'm not really sure what you're talking about.",97.46236228942871,0.931464433670044
+"Yeah, I'm not really sure what you're talking about.","Well, I think we all know what you mean.",19.055973052978516,0.964404821395874
+"Well, I think we all know what you mean.","Well, I think you mean the same thing.",18.528579711914062,0.9800164103507996

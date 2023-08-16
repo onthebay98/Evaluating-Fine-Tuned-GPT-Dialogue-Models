@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",I don't know.,22.081557273864746,0.7863996624946594
+I don't know.,Do you know what the meaning is?,10.18876838684082,0.9283496737480164
+Do you know what the meaning is?,The meaning is that you are not alone in this life. You are all one. And together we make one soul. And that's what makes us one.,4.8580780029296875,0.910152018070221
+The meaning is that you are not alone in this life. You are all one. And together we make one soul. And that's what makes us one.,I know. I know. And I know what I'm doing.,92.86418533325195,0.8682971000671387
+I know. I know. And I know what I'm doing.,And that is the key.,29.49616050720215,0.7317051887512207
+And that is the key.,Yes.,22.093238353729248,0.6907551884651184

@@ -1,0 +1,7 @@
+Input Sentence,Next Sentence,LL Difference Scores,Average Similarity Scores
+"What is the meaning of life, the universe, and everything?",The meaning of your life is to find happiness in a way that you can love yourself.,15.25033950805664,0.9222967624664307
+The meaning of your life is to find happiness in a way that you can love yourself.,"Okay, what's the meaning?",55.47780799865723,0.8848752975463867
+"Okay, what's the meaning?","I think it's to find love in a place that you love yourself, and I think that's what you're asking.",14.989105224609375,0.9147849082946777
+"I think it's to find love in a place that you love yourself, and I think that's what you're asking.",I'm asking you a question.,68.14686298370361,0.9367913007736206
+I'm asking you a question.,You're asking me a question?,11.663951873779297,0.9729632139205933
+You're asking me a question?,It's a stupid question.  You're asking if I'm a genius.,13.333236694335938,0.9524823427200317
