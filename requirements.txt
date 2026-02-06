@@ -1,0 +1,9 @@
+# Notebooks are designed for Google Colab (Python 3.8+, CUDA GPU runtime)
+# Install these if running locally:
+transformers==4.22.2
+torch>=1.13.0
+torchtext>=0.14.0
+pandas>=1.5.0
+numpy>=1.22.0
+scikit-learn>=1.1.0
+nltk>=3.7
